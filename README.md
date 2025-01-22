@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-Hi! I’m a Computer Science student at the University of Debrecen in Hungary, with a passion for technology, software engineering, and AI. I enjoy exploring new concepts, solving problems, and building projects that enhance my skills. Always eager to learn and contribute to exciting tech challenges!
+I’m a Computer Science student at the University of Debrecen in Hungary, with a passion for technology, software engineering, and AI. I enjoy exploring new concepts, solving problems, and building projects that enhance my skills. Always eager to learn and contribute to exciting tech challenges!
 
 <!--
 **vladimir-alrayyan/vladimir-alrayyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
