@@ -32,7 +32,9 @@ I’m a 2nd year Computer Science student at the University of Debrecen in Hunga
 
 - [Application for Storing Files of all sources (FrontEnd and BackEnd)](https://github.com/vladimir-alrayyan/Storage-Application-Project)
 
-## My Projects
+## How To Reach Me
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/vladimir-alrayyan-97a3222a8/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/profile.php?id=100008725446345&mibextid=wwXIfr)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/vladimir_alrayyan?igsh=Nmd6aHZqemJsMGs0&utm_source=qr)  &nbsp; <a href="mailto:vladrayyan321@icloud.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 ## My GitHub Stats
 
