@@ -1,4 +1,4 @@
-[<img src="intro.gif" alt="Vladimir Alrayyan" />](https://github.com/vladimir-alrayyan)
+[<img src="introfinal.gif" alt="Vladimir Alrayyan" />](https://github.com/vladimir-alrayyan)
 
 ## Hi there! 👋
 
