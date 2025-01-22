@@ -2,7 +2,7 @@
 
 # Hello there! <img src="wave.gif" width="30px" height="30px" />
 
-I’m a Bachelor's of Computer Science student at the University of Debrecen in Hungary, with a passion for technology, software engineering, and AI. I enjoy exploring new concepts, solving problems, and building projects that enhance my skills. Always eager to learn and contribute to exciting tech challenges!
+I’m a 2nd year Computer Science student at the University of Debrecen in Hungary, with a passion for technology, software engineering, and AI. I enjoy exploring new concepts, solving problems, and building projects that enhance my skills. Always eager to learn and contribute to exciting tech challenges!
 
 ## Languages
 
