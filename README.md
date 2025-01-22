@@ -1,6 +1,6 @@
 [<img src="introlast.gif" alt="Vladimir Alrayyan" />](https://github.com/vladimir-alrayyan)
 
-# Hi there! 👋
+# Hello there! <img src="wave.gif" width="30px" height="30px" />
 
 I’m a Computer Science student at the University of Debrecen in Hungary, with a passion for technology, software engineering, and AI. I enjoy exploring new concepts, solving problems, and building projects that enhance my skills. Always eager to learn and contribute to exciting tech challenges!
 
