@@ -4,7 +4,7 @@
 
 I’m a 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 of Computer Science student at the University of Debrecen in Hungary, with a passion for technology, software engineering, and AI. I enjoy exploring new concepts, solving problems, and building projects that enhance my skills. Always eager to learn and contribute to exciting tech challenges!
 
-### Languages
+## Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
